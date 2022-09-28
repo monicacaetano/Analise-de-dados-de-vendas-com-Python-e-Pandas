@@ -2,4 +2,7 @@
 Desafio de projeto do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados"
 
 ## Objetivos:
-Utilizar a biblioteca de código aberto - Pandas - para análises exploratórias de dados de vendas. Os dados que foram analisados estavam organizados em planilhas em formato xlsx. Os dados foram processados e analisados. A planilha final foi salva em formato CSV.
+Utilizar a biblioteca de código aberto - Pandas - para análises exploratórias de dados de vendas. 
+
+## Breve descrição do projeto:
+Os dados analisados estavam organizados inicialmente em planilhas, no formato xlsx. Após as etapas de processamento e análise, várias informações úteis sobre vendas foram extraídas a partir desses dados. A planilha final foi salva em formato CSV.
