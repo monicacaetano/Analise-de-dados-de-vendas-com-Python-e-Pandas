@@ -1,5 +1,5 @@
 # Análise exploratória de dados de vendas com Python e Pandas
-Desafio de projeto do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados"
+Desafio de projeto do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados", em parceria com a Digital Innovation One
 
 ## Objetivo:
 Utilizar a biblioteca de código aberto - Pandas - para análises exploratórias de dados sobre vendas. 
